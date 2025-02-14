@@ -19,7 +19,7 @@ public class Main {
 		if(minutos > 100) {
 //			conta = conta + (minutos - 100) * 2.0;
 			
-			// Operador de atribuição cumulativa
+			// Operador de atribuição cumulativa "+="
 			conta += (minutos - 100) * 2.0;
 		}
 		
