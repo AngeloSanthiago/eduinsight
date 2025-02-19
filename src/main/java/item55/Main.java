@@ -32,6 +32,6 @@ public class Main {
 
 		} while (resp != 'n'); // O loop continuará enquanto 'resp' for diferente de 'n'
 
-		sc.close(); // Fecha o Scanner para liberar recursos do sistema.
+		sc.close(); // Fecha o Scanner para liberar recursos do sistema. 
 	}
 }
