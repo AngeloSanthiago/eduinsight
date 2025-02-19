@@ -16,5 +16,6 @@ public class Main2 {
 		System.out.println(vect[1]); // seus
 		System.out.println(vect[2]); // proprios
 		System.out.println(vect[3]); // limites
+		
 	}
 }
